@@ -6,3 +6,5 @@ Hard disks
 Phase transition
 
 Sampling and integration in high dimension
+
+Quantum statistical mechanincs and Quantum Monte Carlo
