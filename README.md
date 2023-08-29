@@ -7,4 +7,4 @@ Phase transition
 
 Sampling and integration in high dimension
 
-Quantum statistical mechanincs and Quantum Monte Carlo
+Quantum statistical mechanics and Quantum Monte Carlo using density matrices and path integrals
