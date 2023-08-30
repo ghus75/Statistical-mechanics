@@ -7,4 +7,8 @@ Phase transition
 
 Sampling and integration in high dimension
 
-Quantum statistical mechanics and Quantum Monte Carlo using density matrices and path integrals
+Density matrices and path integrals
+
+Lévy sampling of quantum paths
+
+Bose-Eintein condensation
