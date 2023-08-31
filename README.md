@@ -11,4 +11,4 @@ Density matrices and path integrals
 
 Lévy sampling of quantum paths
 
-Bose-Eintein condensation
+Bose-Einstein condensation
